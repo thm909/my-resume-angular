@@ -1,0 +1,60 @@
+
+header h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+/* Section */
+section {
+  max-width: 800px;
+  margin: 30px auto;
+  background: #f8f6ff; /* 淺紫背景 */
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+header h1 {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 30px;
+  color: #6c5ce7;
+  letter-spacing: 1px;
+}
+
+.avatar {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 20px auto;
+  border: 4px solid #c6b8ff;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+}
+
+
+section {
+  max-width: 850px;
+  margin: 40px auto;
+  background: rgba(255,255,255,0.9);
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+}
+
+section h2 {
+  border-bottom: 2px solid #6c5ce7;
+  padding-bottom: 8px;
+  margin-top: 25px;
+  color: #341f97;
+}
+
+section p, section li {
+  font-size: 1.15rem;
+  line-height: 1.8;
+}
+
+ul {
+  padding-left: 20px;
+}
